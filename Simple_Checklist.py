@@ -1,3 +1,4 @@
+# This is a program to create and menage a list of tasks
 from operator import length_hint
 import tkinter
 from tkinter.font import BOLD
